@@ -21,7 +21,7 @@ Analysis of code
 
 ## The Story
 
-An interplanetary, famous music band is going on a tour to 20 different asteroids and planets in the solar system, and then returning back to their home planet Earth. There is unfortunately no option to refuel without the ship, and they can only go 500 billion kilometers on a single tank of rocket fuel.
+An interplanetary, famous music band is going on a tour to 20 different asteroids and planets in the solar system, and then returning back to their home planet Earth. There is unfortunately no option to refuel away from Earth, and they can only go 500 billion kilometers on a single tank of rocket fuel.
 
 ## What you will learn
 
